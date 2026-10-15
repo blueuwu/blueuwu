@@ -1,16 +1,13 @@
-## Hi there 👋
+# Blue
 
-<!--
-**blueuwu/blueuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things and
+solve problems,
+like this one
 
-Here are some ideas to get you started:
+Currently interested in agent reliability, RL environments, and evaluation infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+- [Claim vs State](https://github.com/blueuwu/hermes-judge-audit) · Auditing an agent completion judge against independently verified task state.
+- [Green Isn't Correct](https://github.com/blueuwu/Reward-Reliability-Audit) · Reward hacking in coding environments and a hardened grader.
+- [RL-Environments](https://github.com/blueuwu/RL-Environments) · Reproducible reliability gates for RL task environments.
